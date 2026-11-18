@@ -1,0 +1,6 @@
+{
+  "name": "Career Path AI",
+  "description": "An intelligent career guidance platform that helps students and job seekers analyze skills, discover suitable career paths, receive personalized skill recommendations, and follow step-by-step career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
